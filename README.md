@@ -156,7 +156,7 @@ In summary, the following four changes occurred in the updated school district a
 In the new District Summary DataFrame, the metrics for Average Math Score, % Passing Math, % Passing Reading, % Overall Passing decreased by 0.1, 0.2%, 0.1%, and 0.3%, respectively.
 
 ### 2. School Summary
-In the new Per School Summary DataFrame, the Thomas High School metrics for Average Reading Score increased by approximately 0.05, while Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing decreased by approximately 0.07, 0.09%, 0.29%, and 0.32% respectively.
+In the new Per School Summary DataFrame, the Thomas High School metrics for Average Reading Score increased by approximately 0.05, while Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing decreased by approximately 0.07, 0.09%, 0.29%, and 0.32%, respectively.
 
 ### 3. Math Scores by Grade
 In the new Math Scores by Grade DataFrame, the math score for Thomas High School 9th grade was changed to "nan."
