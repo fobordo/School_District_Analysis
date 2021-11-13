@@ -7,7 +7,7 @@ After the initial analysis, it was discovered that the standardized test results
 
 ## Results:
 
-### How is the district summary affected?
+### How the district summary was affected
 
 The following district summary metrics did not change after repeating the analysis:
  * Total Schools
@@ -50,7 +50,7 @@ As seen in the above results for Original District Summary vs. New District Summ
 
 These changes were a reflection of the changes in metrics for Thomas High School, which we will analyze in the following sections.
 
-### How is the school summary affected?
+### How the school summary was affected
 
 The school summary metrics for Thomas High School were affected by the repeated analysis, but the metrics for all of the other schools stayed the same.
 
@@ -62,7 +62,7 @@ New School Summary DataFrame:\
 
 As seen in the Original School Summary vs. New School Summary DataFrames above, the Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing metrics for Thomas High School changed after repeating the analysis, which we will analyze further in the next section.
 
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How replacing the ninth graders’ math and reading scores affected Thomas High School’s performance relative to the other schools
 
 Replacing the ninth graders' math and reading scores affected Thomas High School's performance relative to other schools because the following THS metrics had to be recalculated:
  * Total number of THS students metric used in calculating Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing (ninth-graders were not counted)
@@ -99,7 +99,7 @@ As seen in the above results for Original School Summary vs. New School Summary 
  * The % Passing Reading decreased by 0.29013.
  * The % Overall Passing decreased by 0.317688.
 
-### How does replacing the ninth-grade scores affect the following:
+### How replacing the ninth-grade scores affected the following:
 #### Math and reading scores by grade
 The math and reading scores by grade for Thomas High School were the only metrics affected by repeating the analysis; the metrics for all other schools stayed the same.
 
