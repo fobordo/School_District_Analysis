@@ -1,9 +1,7 @@
 # School District Analysis
 
 ## Overview of School District Analysis
-Explain the purpose of this analysis.
-
-/////The purpose of the Election Audit was to aid the Colorado Board of Elections Committee in analyzing the [tabulated election results](https://github.com/fobordo/election-analysis/blob/bbee13297e47ac142ab7102fc71465b9ae1a6401/Resources/election_results.csv) of the U.S. Congressional Precinct in Colorado. The goal of the Election Audit was to determine the total number of votes cast, total number of votes for each candidate, percentage of votes for each candidate, and the winner of the election based on the popular vote. The programming language, Python, was used to analyze and output the final election results. 
+The purpose of the School District Analysis was to aid a City School District in analyzing the correlation between [student standardized test results data](https://github.com/fobordo/School_District_Analysis/blob/219964e5017a6b436c84949b13cd9051c158bb38/Resources/students_complete.csv) and [school district data](https://github.com/fobordo/School_District_Analysis/blob/219964e5017a6b436c84949b13cd9051c158bb38/Resources/schools_complete.csv) to provide performance trends and patterns that will help to inform School Board discussions and strategic decisions at the district level. The goal of the School District Analysis was to generate and observe summaries for the entire school district, individual schools, high and low performing schools, average math and reading scores by grade, scores by school spending per student, scores by school size, and scores by school type. The programming language Python, in conjunction with the open-source library Pandas, was used to analyze the standardized test results.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
