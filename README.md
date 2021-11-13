@@ -41,7 +41,7 @@ New Math Scores by Grade DataFrame Filtered on Thomas High School:
 Original Reading Scores by Grade DataFrame Filtered on Thomas High School:
 ![reading_scores_by_grade_ths_original](/README_Images/reading_scores_by_grade_ths_original.png)
 
-New Reading Scores by Grade DataFrame Filtered on Thomas High School
+New Reading Scores by Grade DataFrame Filtered on Thomas High School:
 ![reading_scores_by_grade_ths_new](/README_Images/reading_scores_by_grade_ths_new.png)
 
 #### Scores by school spending
