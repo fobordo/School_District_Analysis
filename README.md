@@ -35,19 +35,19 @@ The Original District Summary showed the following metrics:
   * % Overall Passing: 65.2%
 
 <p align="center">
- New District Summary DataFrame
+ Updated District Summary DataFrame
  
  ![district_summary_df_new](/README_Images/district_summary_df_new.png)
 </p>
 
-The New District Summary showed the following metrics:
+The Updated District Summary showed the following metrics:
   * Average Math Score: 78.9
   * Average Reading Score: 81.9
   * % Passing Math: 74.8%
   * % Passing Reading: 85.7%
   * % Overall Passing: 64.9%
 
-As seen in the above results for Original District Summary vs. New District Summary:
+As seen in the above results for Original District Summary vs. Updated District Summary:
  * The Average Math Score decreased by 0.1.
  * The Average Reading Score did not change (if it did, it was by less than 0.05).
  * The % Passing Math decreased by 0.2%.
@@ -67,12 +67,12 @@ The school summary metrics for Thomas High School were affected by the repeated 
 </p>
 
 <p align="center">
- New School Summary DataFrame
+ Updated School Summary DataFrame
  
  ![per_school_summary_df_new](/README_Images/per_school_summary_df_new.png)
 </p>
 
-As seen in the Original School Summary vs. New School Summary DataFrames above, the Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing metrics for Thomas High School changed after repeating the analysis, which we will analyze further in the next section.
+As seen in the Original School Summary vs. Updated School Summary DataFrames above, the Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing metrics for Thomas High School changed after repeating the analysis, which we will analyze further in the next section.
 
 ### How replacing the ninth graders’ math and reading scores affected Thomas High School’s performance relative to the other schools
 
@@ -98,19 +98,19 @@ The Original School Summary showed the following metrics for THS:
   * % Overall Passing: 90.948012
 
 <p align="center">
- New School Summary DataFrame Filtered on Thomas High School
+ Updated School Summary DataFrame Filtered on Thomas High School
  
  ![per_school_summary_df_ths_new](/README_Images/per_school_summary_df_ths_new.png)
 </p>
 
-The New School Summary showed the following metrics for THS:
+The Updated School Summary showed the following metrics for THS:
   * Average Math Score: 83.350937
   * Average Reading Score: 83.896082
   * % Passing Math: 93.185690
   * % Passing Reading: 97.018739
   * % Overall Passing: 90.630324
 
-As seen in the above results for Original School Summary vs. New School Summary for THS:
+As seen in the above results for Original School Summary vs. Updated School Summary for THS:
  * The Average Math Score decreased by 0.067412.
  * The Average Reading Score increased by 0.047152.
  * The % Passing Math decreased by 0.086481.
@@ -128,12 +128,12 @@ The math and reading scores by grade for Thomas High School were the only metric
 </p>
 
 <p align="center">
- New Math Scores by Grade DataFrame Filtered on Thomas High School
+ Updated Math Scores by Grade DataFrame Filtered on Thomas High School
  
  ![math_scores_by_grade_ths_new](/README_Images/math_scores_by_grade_ths_new.png)
 </p>
 
-As seen in the Original Math Scores by Grade vs. New Math Scores by Grade DataFrames filtered on Thomas High School above, the grades for 9th grade previously showed 83.6, but now show "nan" after they were replaced with NaNs.
+As seen in the Original Math Scores by Grade vs. Updated Math Scores by Grade DataFrames filtered on Thomas High School above, the grades for 9th grade previously showed 83.6, but now show "nan" after they were replaced with NaNs.
 
 <p align="center">
  Original Reading Scores by Grade DataFrame Filtered on Thomas High School
@@ -142,16 +142,16 @@ As seen in the Original Math Scores by Grade vs. New Math Scores by Grade DataFr
 </p>
  
 <p align="center">
- New Reading Scores by Grade DataFrame Filtered on Thomas High School
+ Updated Reading Scores by Grade DataFrame Filtered on Thomas High School
  
  ![reading_scores_by_grade_ths_new](/README_Images/reading_scores_by_grade_ths_new.png)
 </p>
 
-Similarly, as seen in the Original Reading Scores by Grade vs. New Reading Scores by Grade DataFrames filtered on Thomas High School, the grades for 9th grade previously showed 83.7, but now show "nan" after they were replaced with NaNs.
+Similarly, as seen in the Original Reading Scores by Grade vs. Updated Reading Scores by Grade DataFrames filtered on Thomas High School, the grades for 9th grade previously showed 83.7, but now show "nan" after they were replaced with NaNs.
 
 #### Scores by school spending
 
-The scores by school spending were not affected by replacing math and reading test scores for Thomas High School ninth-graders with NaNs and repeating the analysis, as seen in the Original Spending Summary vs. New Spending Summary DataFrames below.
+The scores by school spending were not affected by replacing math and reading test scores for Thomas High School ninth-graders with NaNs and repeating the analysis, as seen in the Original Spending Summary vs. Updated Spending Summary DataFrames below.
  
 <p align="center">
  Original Spending Summary DataFrame
@@ -160,14 +160,14 @@ The scores by school spending were not affected by replacing math and reading te
 </p>
 
 <p align="center">
- New Spending Summary DataFrame
+ Updated Spending Summary DataFrame
  
  ![spending_summary_df_new](/README_Images/spending_summary_df_new.png)
 </p>
 
 #### Scores by school size
 
-The scores by school size were not affected by replacing math and reading test scores for Thomas High School ninth-graders with NaNs and repeating the analysis, as seen in the Original Size Summary vs. New Size Summary DataFrames below.
+The scores by school size were not affected by replacing math and reading test scores for Thomas High School ninth-graders with NaNs and repeating the analysis, as seen in the Original Size Summary vs. Updated Size Summary DataFrames below.
 
 <p align="center">
  Original Size Summary DataFrame
@@ -177,14 +177,14 @@ The scores by school size were not affected by replacing math and reading test s
 </p>
 
 <p align="center">
- New Size Summary DataFrame
+ Updated Size Summary DataFrame
 
  ![size_summary_df_new](/README_Images/size_summary_df_new.png)
 </p>
 
 #### Scores by school type
 
-The scores by school type were not affected by replacing math and reading test scores for Thomas High School ninth-graders with NaNs and repeating the analysis, as seen in the Original Type Summary vs. New Type Summary DataFrames below.
+The scores by school type were not affected by replacing math and reading test scores for Thomas High School ninth-graders with NaNs and repeating the analysis, as seen in the Original Type Summary vs. Updated Type Summary DataFrames below.
 
 <p align="center">
  Original Type Summary DataFrame:
@@ -193,7 +193,7 @@ The scores by school type were not affected by replacing math and reading test s
 </p>
  
 <p align="center">
- New Type Summary DataFrame
+ Updated Type Summary DataFrame
 
  ![type_summary_df_new](/README_Images/type_summary_df_new.png)
 </p>
@@ -202,13 +202,13 @@ The scores by school type were not affected by replacing math and reading test s
 In summary, the following four changes occurred in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 ### 1. District Summary
-In the new District Summary DataFrame, the metrics for Average Math Score, % Passing Math, % Passing Reading, % Overall Passing decreased by 0.1, 0.2%, 0.1%, and 0.3%, respectively.
+In the updated District Summary DataFrame, the metrics for Average Math Score, % Passing Math, % Passing Reading, % Overall Passing decreased by 0.1, 0.2%, 0.1%, and 0.3%, respectively.
 
 ### 2. School Summary
-In the new Per School Summary DataFrame, the Thomas High School metrics for Average Reading Score increased by approximately 0.05, while Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing decreased by approximately 0.07, 0.09%, 0.29%, and 0.32%, respectively.
+In the updated Per School Summary DataFrame, the Thomas High School metrics for Average Reading Score increased by approximately 0.05, while Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing decreased by approximately 0.07, 0.09%, 0.29%, and 0.32%, respectively.
 
 ### 3. Math Scores by Grade
-In the new Math Scores by Grade DataFrame, the math score for Thomas High School 9th grade was changed to "nan."
+In the updated Math Scores by Grade DataFrame, the math score for Thomas High School 9th grade was changed to "nan."
 
 ### 4. Reading Scores by Grade
-In the new Reading Scores by Grade DataFrame, the reading score for Thomas High School 9th grade was changed to "nan."
+In the updated Reading Scores by Grade DataFrame, the reading score for Thomas High School 9th grade was changed to "nan."
