@@ -7,36 +7,65 @@ The purpose of the School District Analysis was to aid a City School District in
 
 ### How is the district summary affected?
 
+Original District Summary DataFrame:
 ![district_summary_df_original](/README_Images/district_summary_df_original.png)
+
+New District Summary DataFrame:
 ![district_summary_df_new](/README_Images/district_summary_df_new.png)
 
 ### How is the school summary affected?
 
+Original School Summary DataFrame:
 ![per_school_summary_df_original](/README_Images/per_school_summary_df_original.png)
+
+New School Summary DataFrame:
 ![per_school_summary_df_new](/README_Images/per_school_summary_df_new.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Original School Summary DataFrame Filtered on Thomas High School:
 ![per_school_summary_df_ths_original](/README_Images/per_school_summary_df_ths_original.png)
+
+New School Summary DataFrame Filtered on Thomas High School:
 ![per_school_summary_df_ths_new](/README_Images/per_school_summary_df_ths_new.png)
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
+
+Original Math Scores by Grade DataFrame Filtered on Thomas High School:
 ![math_scores_by_grade_ths_original](/README_Images/math_scores_by_grade_ths_original.png)
+
+New Math Scores by Grade DataFrame Filtered on Thomas High School:
 ![math_scores_by_grade_ths_new](/README_Images/math_scores_by_grade_ths_new.png)
 
+Original Reading Scores by Grade DataFrame Filtered on Thomas High School:
 ![reading_scores_by_grade_ths_original](/README_Images/reading_scores_by_grade_ths_original.png)
+
+New Reading Scores by Grade DataFrame Filtered on Thomas High School
 ![reading_scores_by_grade_ths_new](/README_Images/reading_scores_by_grade_ths_new.png)
 
 #### Scores by school spending
+
+Original Spending Summary DataFrame:
 ![spending_summary_df_original](/README_Images/spending_summary_df_original.png)
+
+New Spending Summary DataFrame:
 ![spending_summary_df_new](/README_Images/spending_summary_df_new.png)
 
 #### Scores by school size
+
+Original Size Summary DataFrame:
 ![size_summary_df_original](/README_Images/size_summary_df_original.png)
+
+New Size Summary DataFrame:
 ![size_summary_df_new](/README_Images/size_summary_df_new.png)
 
 #### Scores by school type
+
+Original Type Summary DataFrame:
 ![type_summary_df_original](/README_Images/type_summary_df_original.png)
+
+New Type Summary DataFrame:
 ![type_summary_df_new](/README_Images/type_summary_df_new.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
