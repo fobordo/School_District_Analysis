@@ -5,6 +5,7 @@ The purpose of the School District Analysis was to aid a City School District in
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
+
 ### How is the district summary affected?
 
 ### How is the school summary affected?
