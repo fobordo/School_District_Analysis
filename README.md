@@ -3,12 +3,25 @@
 ## Overview of School District Analysis
 The purpose of the School District Analysis was to aid a City School District in analyzing the correlation between [student standardized test results data](https://github.com/fobordo/School_District_Analysis/blob/219964e5017a6b436c84949b13cd9051c158bb38/Resources/students_complete.csv) and [school district data](https://github.com/fobordo/School_District_Analysis/blob/219964e5017a6b436c84949b13cd9051c158bb38/Resources/schools_complete.csv) to provide performance trends and patterns that will help to inform School Board discussions and strategic decisions at the district level. The goal of the School District Analysis was to generate and observe summaries for the entire school district, individual schools, high and low performing schools, average math and reading scores by grade, scores by school spending per student, scores by school size, and scores by school type. The programming language Python, in conjunction with the open-source library Pandas, was used to analyze the standardized test results.
 
+After the initial analysis, it was discovered that the standardized test results for Thomas High School ninth-graders may have been altered...
+
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ### How is the district summary affected?
 
+The following metrics did not change:
+
+The district summary changed slightly in Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing.
+
 Original District Summary DataFrame:\
 ![district_summary_df_original](/README_Images/district_summary_df_original.png)
+
+The Original District Summary showed the following metrics:
+  * Average Math Score:
+  * Average Reading Score:
+  * % Passing Math:
+  * % Passing Reading:
+  * % Overall Passing:
 
 New District Summary DataFrame:\
 ![district_summary_df_new](/README_Images/district_summary_df_new.png)
