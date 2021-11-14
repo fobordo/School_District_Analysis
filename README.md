@@ -117,6 +117,7 @@ The math and reading scores by grade for Thomas High School were the only metric
 
 <p align="center">
  Original Math Scores by Grade DataFrame Filtered on Thomas High School
+ 
  <img src="/README_Images/math_scores_by_grade_ths_original.png">
 </p>
 
