@@ -116,9 +116,8 @@ As seen in the above results for Original School Summary vs. Updated School Summ
 The math and reading scores by grade for Thomas High School were the only metrics affected by repeating the analysis; the metrics for all other schools stayed the same.
 
 <p align="center">
-Original Math Scores by Grade DataFrame Filtered on Thomas High School
- 
-<img src="/README_Images/math_scores_by_grade_ths_original.png">
+ Original Math Scores by Grade DataFrame Filtered on Thomas High School
+ <img src="/README_Images/math_scores_by_grade_ths_original.png">
 </p>
 
 <p align="center">
