@@ -22,9 +22,8 @@ However, the following district summary metrics were affected and changed slight
  * % Overall Passing
 
 <p align="center">
-Original District Summary DataFrame
- 
-![district_summary_df_original](/README_Images/district_summary_df_original.png)
+ Original District Summary DataFrame
+ <img src="/README_Images/district_summary_df_original.png">
 </p>
 
 The Original District Summary showed the following metrics:
@@ -36,8 +35,7 @@ The Original District Summary showed the following metrics:
 
 <p align="center">
  Updated District Summary DataFrame
- 
- ![district_summary_df_new](/README_Images/district_summary_df_new.png)
+ <img src="/README_Images/district_summary_df_new.png">
 </p>
 
 The Updated District Summary showed the following metrics:
@@ -62,14 +60,12 @@ The school summary metrics for Thomas High School were affected by the repeated 
 
 <p align="center">
  Original School Summary DataFrame
- 
- ![per_school_summary_df_original](/README_Images/per_school_summary_df_original.png)
+ <img src="/README_Images/per_school_summary_df_original.png">
 </p>
 
 <p align="center">
  Updated School Summary DataFrame
- 
- ![per_school_summary_df_new](/README_Images/per_school_summary_df_new.png)
+ <img src="/README_Images/per_school_summary_df_new.png">
 </p>
 
 As seen in the Original School Summary vs. Updated School Summary DataFrames above, the Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing metrics for Thomas High School changed after repeating the analysis, which we will analyze further in the next section.
@@ -86,8 +82,7 @@ Replacing the ninth graders' math and reading scores affected Thomas High School
 
 <p align="center">
  Original School Summary DataFrame Filtered on Thomas High School
- 
- ![per_school_summary_df_ths_original](/README_Images/per_school_summary_df_ths_original.png)
+ <img src="/README_Images/per_school_summary_df_ths_original.png">
 </p>
 
 The Original School Summary showed the following metrics for THS:
@@ -99,8 +94,7 @@ The Original School Summary showed the following metrics for THS:
 
 <p align="center">
  Updated School Summary DataFrame Filtered on Thomas High School
- 
- ![per_school_summary_df_ths_new](/README_Images/per_school_summary_df_ths_new.png)
+ <img src="/README_Images/per_school_summary_df_ths_new.png">
 </p>
 
 The Updated School Summary showed the following metrics for THS:
@@ -123,28 +117,24 @@ The math and reading scores by grade for Thomas High School were the only metric
 
 <p align="center">
  Original Math Scores by Grade DataFrame Filtered on Thomas High School
- 
- ![math_scores_by_grade_ths_original](/README_Images/math_scores_by_grade_ths_original.png)
+ <img src="/README_Images/math_scores_by_grade_ths_original.png">
 </p>
 
 <p align="center">
  Updated Math Scores by Grade DataFrame Filtered on Thomas High School
- 
- ![math_scores_by_grade_ths_new](/README_Images/math_scores_by_grade_ths_new.png)
+ <img src="/README_Images/math_scores_by_grade_ths_new.png">
 </p>
 
 As seen in the Original Math Scores by Grade vs. Updated Math Scores by Grade DataFrames filtered on Thomas High School above, the grades for 9th grade previously showed 83.6, but now show "nan" after they were replaced with NaNs.
 
 <p align="center">
  Original Reading Scores by Grade DataFrame Filtered on Thomas High School
- 
- ![reading_scores_by_grade_ths_original](/README_Images/reading_scores_by_grade_ths_original.png)
+ <img src="/README_Images/reading_scores_by_grade_ths_original.png">
 </p>
  
 <p align="center">
  Updated Reading Scores by Grade DataFrame Filtered on Thomas High School
- 
- ![reading_scores_by_grade_ths_new](/README_Images/reading_scores_by_grade_ths_new.png)
+ <img src="/README_Images/reading_scores_by_grade_ths_new.png">
 </p>
 
 Similarly, as seen in the Original Reading Scores by Grade vs. Updated Reading Scores by Grade DataFrames filtered on Thomas High School, the grades for 9th grade previously showed 83.7, but now show "nan" after they were replaced with NaNs.
@@ -155,14 +145,12 @@ The scores by school spending were not affected by replacing math and reading te
  
 <p align="center">
  Original Spending Summary DataFrame
- 
- ![spending_summary_df_original](/README_Images/spending_summary_df_original.png)
+ <img src="/README_Images/spending_summary_df_original.png">
 </p>
 
 <p align="center">
  Updated Spending Summary DataFrame
- 
- ![spending_summary_df_new](/README_Images/spending_summary_df_new.png)
+ <img src="/README_Images/spending_summary_df_new.png">
 </p>
 
 #### Scores by school size
@@ -171,15 +159,12 @@ The scores by school size were not affected by replacing math and reading test s
 
 <p align="center">
  Original Size Summary DataFrame
- 
- ![size_summary_df_original](/README_Images/size_summary_df_original.png)
-
+ <img src="/README_Images/size_summary_df_original.png">
 </p>
 
 <p align="center">
  Updated Size Summary DataFrame
-
- ![size_summary_df_new](/README_Images/size_summary_df_new.png)
+ <img src="/README_Images/size_summary_df_new.png">
 </p>
 
 #### Scores by school type
@@ -188,14 +173,12 @@ The scores by school type were not affected by replacing math and reading test s
 
 <p align="center">
  Original Type Summary DataFrame:
- 
- ![type_summary_df_original](/README_Images/type_summary_df_original.png)
+ <img src="/README_Images/type_summary_df_original.png">
 </p>
  
 <p align="center">
  Updated Type Summary DataFrame
-
- ![type_summary_df_new](/README_Images/type_summary_df_new.png)
+ <img src="/README_Images/type_summary_df_new.png">
 </p>
 
 ## Summary:
