@@ -182,7 +182,7 @@ The scores by school type were not affected by replacing math and reading test s
 </p>
 
 ## Summary:
-In summary, the following four changes occurred in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+In summary, the following four changes occurred in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School were replaced with NaNs.
 
 ### 1. District Summary
 In the updated District Summary DataFrame, the metrics for Average Math Score, % Passing Math, % Passing Reading, % Overall Passing decreased by 0.1, 0.2%, 0.1%, and 0.3%, respectively.
